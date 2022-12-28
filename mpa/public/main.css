@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Royal Acidbath';
+  src: url('royal-acidbath.ttf');
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  font-family: 'Royal Acidbath';
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+a,
+button {
+  cursor: pointer;
+}
